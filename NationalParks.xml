@@ -139,7 +139,7 @@
   </NationalPark>
 
   <NationalPark Rating="4.5">
-    <n>Death Valley</n>
+    <Name>Death Valley</Name>
     <Phone>760-786-3200</Phone>
     <Address NearestAirport="Las Vegas">
       <Number>328</Number>

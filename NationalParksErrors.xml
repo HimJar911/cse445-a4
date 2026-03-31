@@ -16,7 +16,7 @@
 
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
-    <n>Yellowstone Extra</n>
+    <Name>Yellowstone Extra</Name>
     <Phone>307-344-7381</Phone>
     <Phone>307-344-2107</Phone>
     <Address NearestAirport="Bozeman">
@@ -139,7 +139,7 @@
   </NationalPark>
 
   <NationalPark Rating="4.5">
-    <n>Death Valley</n>
+    <Name>Death Valley</Name>
     <Phone>760-786-3200</Phone>
     <Address NearestAirport="Las Vegas">
       <Number>328</Number>

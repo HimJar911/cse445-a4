@@ -16,7 +16,7 @@
 
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
-    <n>Yellowstone Duplicate</n>
+    <n>Yellowstone Extra</n>
     <Phone>307-344-7381</Phone>
     <Phone>307-344-2107</Phone>
     <Address NearestAirport="Bozeman">
@@ -135,5 +135,17 @@
       <City>Tucson</City>
       <State>AZ</State>
       <Zip>85730</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.5">
+    <n>Death Valley</n>
+    <Phone>760-786-3200</Phone>
+    <Address NearestAirport="Las Vegas">
+      <Number>328</Number>
+      <Street>Greenland Boulevard</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
   </NationalPark>
 </NationalPark>

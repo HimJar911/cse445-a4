@@ -59,6 +59,7 @@
       <City>Estes Park</City>
       <State>CO</State>
       <Zip>80517</Zip>
+    </Address>
   </NationalPark>
 
   <NationalPark Rating="4.8">
@@ -133,6 +134,6 @@
       <City>Tucson</City>
       <State>AZ</State>
       <Zip>85730</Zip>
-    </Address>
+    
   </NationalPark>
 </NationalPark>

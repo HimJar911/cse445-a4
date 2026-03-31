@@ -137,4 +137,16 @@
       <Zip>85730</Zip>
     </Address>
   </NationalPark>
+
+  <NationalPark Rating="4.5">
+    <n>Death Valley</n>
+    <Phone>760-786-3200</Phone>
+    <Address NearestAirport="Las Vegas">
+      <Number>328</Number>
+      <Street>Greenland Boulevard</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
 </NationalParks>
